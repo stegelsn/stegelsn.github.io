@@ -4,6 +4,7 @@ share-description: At the start of a project building an application on ServiceN
 layout: page
 permalink: /guides/selecting-a-canvas
 ---
+## Overview
 Unlike other platforms, or bespoke applications, ServiceNow provides multiple user interfaces designed for different personas. Each option is ideal for specific use cases and users and your choices impact the experience perceived by your users.
 
 ## Preparations for choosing a canvas
@@ -19,7 +20,13 @@ Unlike other platforms, or bespoke applications, ServiceNow provides multiple us
 ## The Canvases
 Within the NOW Platform there are currently 4 different canvases to choose from when delivering an app. A customer’s current release and licensing impact the availability of these canvases on your instance.
 
-### Classic Environment
+- [Classic Environment](#classic-environment)
+- [Service Portal](#service-portal)
+- [Workspaces](#configurable-workspaces)
+- [Native Mobile](#native-mobile)
+
+### Classic Environment 
+[top](#overview)
 
 |Topic  | Description|
 | ----- | ----------- |
@@ -61,6 +68,7 @@ With the San Diego release a new application shell for the Classic Environment i
 The primary personas for this are your platform or application administrators that need to directly modify data or review data regarding those applications. Tailored to technical audiences, the Classic Experience is best for those is familiar with the ServiceNow platform. It is not appropriate for infrequent, non-expert, or non-technical users.
 
 ### Service Portal
+[Back to top](#overview)
 
 |Topic  | Description|
 | ----- | ----------- |
@@ -109,6 +117,7 @@ Service Portals can manage user access to content using a capability called User
 The primary personas for this are users that are seeking help or the ability to self-service issues they may encounter during their day. These “requestor” personas are infrequent users with limited experience with the ServiceNow platform and need an intuitive, low learning curve experience so they can get back to work. Service Portal is not meant to be a primary work interface for users. 
 
 ### Configurable Workspaces 
+[Back to top](#overview)
 
 |Topic  | Description|
  --- | ---|
@@ -142,6 +151,8 @@ Configurable Workspaces meet the needs of agents, case managers, service desk pr
 
 
 ### Native Mobile
+[Back to top](#overview)
+
 ServiceNow offers two native mobile applications for iOS and Android that provide your creators the ability to leverage mobile devices unique capabilities in their applications.
 
 #### Now Mobile
