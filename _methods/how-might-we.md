@@ -29,8 +29,8 @@ The structure of the statement opens up possibilities for solution ideation;
 * Team focused on moving forward rather than looking back
 
 ## Prerequisites
-* Identified long term goals for a process or business model (See: Long Term Goals / Challenges)
-* Prioritized list of current state challenges (See: Challenges and Friction & Prioritization)
+* Identified long term goals for a process or business model
+* Prioritized list of current state challenges (See: (Prioritization)[./prioritization])
 
 ## Participants
 Ideally this is conducted with participants that interact with the process or business model and leadership sponsoring the transformation.
@@ -64,8 +64,8 @@ Vote on the top 3-5 How Might We... statements and use them as prompts in an ide
 
 ## Related Methods
 * [Prioritization](./prioritization)
-* Challenges & Friction
-* Long Term Goals & Challenges
+<!-- * Challenges & Friction
+* Long Term Goals & Challenges -->
 
 ## Related Plays
 [Transforming a Business Process](/plays/transforming-a-business-process)
